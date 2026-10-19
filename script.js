@@ -5,10 +5,8 @@
 const typingText = document.getElementById("typing");
 
 const roles = [
-    "Backend Developer",
-    "Java Spring Boot Developer",
-    "AI Engineer",
-    "Software Engineer"
+    "Software Development Engineer",
+    "AI Engineer"
 ];
 
 let roleIndex = 0;
